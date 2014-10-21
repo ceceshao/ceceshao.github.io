@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>About Cecelia Shao</title>
+	</head>
+
+	<body>
+		<h1>About Me!</h1>
+			<p> I'm a student, living in San Francisco until the end of December. I became interested in Front-End Web Design and Development because I want to grow my technically capabilities and become more well-versed in web fundamentals. </p>
+
+		<h2>My Mission</h2>
+			<p> As I learn more about front-end, I hope to one day work as an innovation consultant with IDEO because I love creative and collaborative environments where I can constantly learn from others. 
+			</p>
+		<h2>My Experience</h2>
+			<p>This is how I've evolved professionally:
+		<ul>
+			<li><strong>Product Marketing Intern</strong>, Radius Intelligence<br>
+			<em>San Francisco CA, 10/14 to 12/14</em></li>
+			
+			<li><strong>Product Marketing Intern</strong>, Gainsight<br>
+			<em>Mountain View CA, 09/14 to 12/14</em></li>
+
+			<li><strong>Co-founder & Director of Marketing</strong>, TheBOX food truck<br>
+			<em>Hanover NH, 03/13 to Present</em></li>
+		</ul>
+			</p>
+
+		<h2>My Education</h2>
+			<p> Dartmouth College, <em> Systems Analysis (Economics, Geography, & Engineering)</em>
+
+		<h2>Other</h2>
+			<p> Yestermorrow Sustainable Design/Build Semester Program </p>
+
+  		<h2>Get in Touch!</h2>
+			<p>If you're interested in collaborating with me on a project, feel free to email me at: <a href="mailto:Cecelia.Shao.16@dartmouth.edu"><em>Cecelia.Shao.16@dartmouth.edu</em></a> and check out my online portfolio: <a href="www.cecelia-shao.squarespace.com"><em>Cecelia Shao</em></a>
+			</p>
+	</body>
+
+
+</html>
