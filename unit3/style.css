@@ -1,66 +1,30 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
-	background-color:
-	background:;
+	background:url('images/background.jpg') no-repeat #525a6a;
+	background-size: cover; 
+	color:#fff;
+	font-family:helvetica, sans-serif;
 	font-size:20px;
-	font-family:helvetica;
-	color:white;
-	height:;
-	width:;
-	padding:;
 	font-weight:normal;
-	line-height:;
-	margin:0px
-;
+	line-height:1.62em;
 }
-
-hr{
+section{
+	margin:200px 0 0 100px;
+}
+hr {
+	border:1px #fd6e6e solid;
 	width:80px;
-	color:;
 }
-
-a{
-}
-
-#background{
-	background-image: url(unit3assets/images/background.jpg);
-	/* position: absolute; */
-	height: 870px;
-	/* right:0px; */
-	/* left: 0px; */
-	/* top: 0px; */
-	/* background-size: cover; */
-	background-size: contain;
-	/* width: 100%; */
-	/* display: flex; */
-	/* margin-right: 0px; */
-	float: right;
-	width: 1200px;
-	background-repeat: no-repeat;
-	height: 800px;
-}
+p { margin:10px 0 10px 0; }
 
 #stripes{
-	background-image:url(unit3assets/images/stripes.png);
-	background-repeat:repeat-x;
-	height:10px;
+	background:url('images/stripes.png') repeat-x;
+	height:13px;
+	width:100%;
 	position: absolute;
-	right: 0px;
+	top: 0px;
 	left: 0px;
 }
-
-#appstore {
-
-padding-top:200px;
-padding-left:100px;
-background-color: #525A69;
-height: 465px;
-}
-
-
-hr { display: block; height: 1px;
-    border: 0; border-top: 1px solid #ccc;
-    margin: 1em 0; padding: 0; color: red; border-color:orange;}
-
 
 
 
