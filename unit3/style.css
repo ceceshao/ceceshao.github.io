@@ -1,0 +1,69 @@
+body{
+	background-color:
+	background:;
+	font-size:20px;
+	font-family:helvetica;
+	color:white;
+	height:;
+	width:;
+	padding:;
+	font-weight:normal;
+	line-height:;
+	margin:0px
+;
+}
+
+hr{
+	width:80px;
+	color:;
+}
+
+a{
+}
+
+#background{
+	background-image: url(unit3assets/images/background.jpg);
+	/* position: absolute; */
+	height: 870px;
+	/* right:0px; */
+	/* left: 0px; */
+	/* top: 0px; */
+	/* background-size: cover; */
+	background-size: contain;
+	/* width: 100%; */
+	/* display: flex; */
+	/* margin-right: 0px; */
+	float: right;
+	width: 1200px;
+	background-repeat: no-repeat;
+	height: 800px;
+}
+
+#stripes{
+	background-image:url(unit3assets/images/stripes.png);
+	background-repeat:repeat-x;
+	height:10px;
+	position: absolute;
+	right: 0px;
+	left: 0px;
+}
+
+#appstore {
+
+padding-top:200px;
+padding-left:100px;
+background-color: #525A69;
+height: 465px;
+}
+
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0; color: red; border-color:orange;}
+
+
+
+
+//Backgrounds can have multiple images, and images can repeat-x or repeat-y. This means they can repeat along the x-axis (horizontally) or y-axis (vertically) of your browser.
+The zip file contains the final comp image. Use a design software tool to determine the hexadecimal values for the background-color and line-break.
+Images can wrap around anchor tags to be clickable
