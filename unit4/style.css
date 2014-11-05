@@ -1,0 +1,36 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body{
+	background:url('fatradish.jpg');
+	background-size: cover; 
+	color:white;
+	font-family:abril fatface, sans serif;
+	font-size:22px;
+	font-weight:normal;
+	line-height:1.50em;
+	text-align:center;
+}
+
+section{
+	margin:300px 400px 0 400px;
+}
+
+p{ margin:0px 0 5px 0; }
+
+
+
+//background
+color
+display
+height
+width
+margin (*Tip: use margin:auto; if adding a width refrains you from centering your logo.)
+text-align
+text-indent
+white-space
+overflow
+
+
+Use line-height to change the leading of a block of text
+Use font-weight and font-style to use light, normal or bold versions of your typeface, assuming it’s available (see this post).
+Use the letter-spacing property to effect kerning.
+Get creative! Use declarations such as text-transform to style and print text in unique ways.

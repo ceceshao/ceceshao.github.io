@@ -9,7 +9,7 @@ body{
 	line-height:1.62em;
 }
 section{
-	margin:200px 0 0 100px;
+	margin:300px 0 0 300px;
 }
 hr {
 	border:1px #fd6e6e solid;
@@ -26,8 +26,6 @@ p { margin:10px 0 10px 0; }
 	left: 0px;
 }
 
-
-
-//Backgrounds can have multiple images, and images can repeat-x or repeat-y. This means they can repeat along the x-axis (horizontally) or y-axis (vertically) of your browser.
-The zip file contains the final comp image. Use a design software tool to determine the hexadecimal values for the background-color and line-break.
-Images can wrap around anchor tags to be clickable
+//for short code, you don't need to put commas between the attributes- for 
+example, background and border
+//for margin
